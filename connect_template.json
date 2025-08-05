@@ -1,0 +1,17 @@
+{
+    "list": {
+        "0": {
+            "description": "connections management"
+        },
+        "1": {
+            "username": "mulder",
+            "hostname": "server_1.x",
+            "key": "NULL"
+        },
+        "2": {
+            "username": "scully",
+            "hostname": "server_2.x",
+            "key": "~/.ssh/id_scully"
+        }
+    }
+}
